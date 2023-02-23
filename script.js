@@ -108,3 +108,4 @@ holdBtnEl.addEventListener('click', () => {
 
 newGameBtnEl.addEventListener('click', initGame) 
 
+console.log('hello')
